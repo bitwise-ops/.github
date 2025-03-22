@@ -1,10 +1,9 @@
 # Bitwise Ops
 
-At **Bitwise Ops**, we believe in the power of technology to transform businesses. We are dedicated to creating innovative and high-quality SaaS solutions. Our goal is to deliver products that not only meet our clients' needs but also make a real impact in the market, using modern and efficient development practices.
+At **Bitwise Ops**, we believe in the power of technology to transform businesses. We are dedicated to creating innovative and high-quality solutions. Our goal is to deliver products that not only meet our clients' needs but also make a real impact in the market, using modern and efficient development practices.
 
 ### Our Mission
 
-- **Constantly innovate** in SaaS development.
 - **Provide efficient and scalable solutions** for businesses of all sizes.
 - **Build long-lasting partnerships** with our clients, based on trust and continuous value delivery.
 
